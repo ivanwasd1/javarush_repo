@@ -1,9 +1,1 @@
-# study-repo
-
-## My Project Plan
-
-- initialize the project repository
-- Add the main feature
-- Create unit tests
-- Update the documentation
-- Prepare for the first release
+My Awesome Project
